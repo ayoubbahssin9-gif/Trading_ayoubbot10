@@ -6,7 +6,7 @@ import pandas as pd
 from groq import Groq
 from datetime import datetime
 
-TELEGRAM_TOKEN = os.getenv("8640378180:AAHjmdbQwWN0Cam8ljGlqp9oG80S5eKbvV")
+TELEGRAM_TOKEN = os.getenv("8640378180:AAHjmdbQwWN0Cam8ljGlqp9oG80S5eKbvV8")
 GROQ_API_KEY = os.getenv("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")
 
 CAPITAL = 400
